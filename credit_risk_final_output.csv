@@ -1,0 +1,21 @@
+CustomerID,Age,Income,LoanAmount,CreditHistory,EmploymentStatus,LoanStatus,RiskCategory
+C001,25,280000,120000,1,Salaried,1,Low Risk
+C002,32,420000,180000,1,Salaried,1,Low Risk
+C003,45,500000,300000,0,Self-employed,0,Low Risk
+C004,29,310000,150000,1,Salaried,1,Low Risk
+C005,50,620000,350000,0,Self-employed,0,Low Risk
+C006,36,450000,200000,1,Salaried,1,Low Risk
+C007,41,470000,260000,0,Salaried,0,Low Risk
+C008,27,290000,130000,1,Salaried,1,Low Risk
+C009,48,540000,320000,0,Self-employed,0,Low Risk
+C010,34,390000,190000,1,Salaried,1,Low Risk
+C011,55,650000,400000,0,Self-employed,0,Medium Risk
+C012,38,460000,210000,1,Salaried,1,Low Risk
+C013,44,490000,280000,0,Self-employed,0,Low Risk
+C014,26,300000,140000,1,Salaried,1,Low Risk
+C015,40,480000,250000,1,Salaried,1,Low Risk
+C016,52,610000,370000,0,Self-employed,0,Medium Risk
+C017,31,360000,170000,1,Salaried,1,Low Risk
+C018,47,520000,310000,0,Self-employed,0,Low Risk
+C019,28,330000,160000,1,Salaried,1,Low Risk
+C020,43,500000,290000,0,Salaried,0,Low Risk
